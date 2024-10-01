@@ -1,0 +1,45 @@
+{
+  "name": "F1",
+  "description": "NFT named F1. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 13,733. Health: 2,141. Attack: 1,735. Sats: 35,860. Size: 3,430. Sku: F1. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "13,733"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,141"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,735"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "35,860"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,430"
+    },
+    {
+      "trait_type": "Sku",
+      "value": "F1"
+    }
+  ],
+  "signature": "6jFm+bH+Pj35iEjPnwDPLvRFEHoW0pVKzxAuelwg7xw="
+}
